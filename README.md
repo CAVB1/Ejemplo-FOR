@@ -1,2 +1,2 @@
 # Ejemplo-FOR
-Un ejemplo my básico del uso de for en Java
+Un ejemplo muy básico del uso de for en Java
